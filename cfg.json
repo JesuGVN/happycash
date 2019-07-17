@@ -1,0 +1,22 @@
+{
+	"DATA_BASE":{
+		  "host": "localhost",        
+	      "user": "root",
+	      "password": "", 
+	      "database": "telegram_bot"
+	},
+	"TELEGRAM":{
+		"token": "830218252:AAFkJlVp8kfT-ji-JrsptG4YMO4HhHClH0I",
+		"admins":{
+			"a_1": 239823355,
+			"a_2": 0,
+			"a_3": 0
+		}
+	},
+	"FREE_KASSA":{
+		"store_id": 141307,
+		"secret_1": "hes27zuk",
+		"secret_2": "xw25s6bh",
+		"us_bot": "happycash_bot"
+	}
+}
